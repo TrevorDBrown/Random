@@ -2,7 +2,7 @@ The following links are to Gists associated with random scripts and files I used
 
 # Start list here
 
-[Battery Alert (macOS, cron with bash)]( https://gist.github.com/TrevorDBrown/e6052d02f9472a572b835925b34c4552)
+Battery Alert (macOS, cron with bash - https://gist.github.com/TrevorDBrown/e6052d02f9472a572b835925b34c4552
 Battery Alert (macOS, bash) - ?
 Uppercase Clipboard (Windows, PowerShell) - https://gist.github.com/TrevorDBrown/14399ffcf2e175e45407353649ec4cb9
 
