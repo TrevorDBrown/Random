@@ -9,6 +9,7 @@ def main():
     try:
         # Establish connection with the OBD-II device
         connection = obd.OBD('/dev/tty.OBDII-SPPslave') # My device's MAC is: 00-1D-A5-06-92-5A
+        # connection = obd.OBD('/dev/cu.OBDII-SPPslave')
 
         # Initialize Datetime object for time comparison
         previousDateTimeRecorded = datetime.datetime.now()
@@ -39,7 +40,7 @@ def main():
                 speed = round((sum(speedList)/len(speedList)), 2)
                 rpms = round((sum(rpmsList)/len(rpmsList)), 2)
 
-                with open('CarData.csv', 'a') as f:
+                with open('CarData-New.csv', 'a') as f:
                     f.write("%s,%s,%s,%i,%i\n" % (printedTime, str(speed), str(rpms), len(speedList), len(rpmsList)))
                     f.close()
                 
@@ -47,6 +48,7 @@ def main():
                 rpmsList = []
 
     except Exception as e:
+        print("An exception occurred:")
         print(e)    
 
 main()

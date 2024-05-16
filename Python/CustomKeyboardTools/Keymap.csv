@@ -1,0 +1,97 @@
+﻿Key,Type,Index,Modifier
+Enter,Special,54,
+Left Shift,Special,55,
+`,Normal,14,
+1,Normal,15,
+2,Normal,16,
+3,Normal,17,
+4,Normal,18,
+5,Normal,19,
+6,Normal,20,
+7,Normal,21,
+8,Normal,22,
+9,Normal,23,
+0,Normal,24,
+-,Normal,25,
+=,Normal,26,
+~,Modified,14,Left Shift
+!,Modified,15,Left Shift
+@,Modified,16,Left Shift
+#,Modified,17,Left Shift
+$,Modified,18,Left Shift
+%,Modified,19,Left Shift
+^,Modified,20,Left Shift
+&,Modified,21,Left Shift
+*,Modified,22,Left Shift
+(,Modified,23,Left Shift
+),Modified,24,Left Shift
+_,Modified,25,Left Shift
++,Modified,26,Left Shift
+q,Normal,29,
+w,Normal,30,
+e,Normal,31,
+r,Normal,32,
+t,Normal,33,
+y,Normal,34,
+u,Normal,35,
+i,Normal,36,
+o,Normal,37,
+p,Normal,38,
+-,Normal,39,
+=,Normal,40,
+\,Normal,41,
+Q,Modified,29,Left Shift
+W,Modified,30,Left Shift
+E,Modified,31,Left Shift
+R,Modified,32,Left Shift
+T,Modified,33,Left Shift
+Y,Modified,34,Left Shift
+U,Modified,35,Left Shift
+I,Modified,36,Left Shift
+O,Modified,37,Left Shift
+P,Modified,38,Left Shift
+{,Modified,39,Left Shift
+},Modified,40,Left Shift
+|,Modified,41,Left Shift
+a,Normal,43,
+s,Normal,44,
+d,Normal,45,
+f,Normal,46,
+g,Normal,47,
+h,Normal,48,
+j,Normal,49,
+k,Normal,50,
+l,Normal,51,
+;,Normal,52,
+',Normal,53,
+A,Modified,43,Left Shift
+S,Modified,44,Left Shift
+D,Modified,45,Left Shift
+F,Modified,46,Left Shift
+G,Modified,47,Left Shift
+H,Modified,48,Left Shift
+J,Modified,49,Left Shift
+K,Modified,50,Left Shift
+L,Modified,51,Left Shift
+:,Modified,52,Left Shift
+"""",Modified,53,Left Shift
+z,Normal,56,
+x,Normal,57,
+c,Normal,58,
+v,Normal,59,
+b,Normal,60,
+n,Normal,61,
+m,Normal,62,
+",",Normal,63,
+.,Normal,64,
+/,Normal,65,
+Z,Modified,56,Left Shift
+X,Modified,57,Left Shift
+C,Modified,58,Left Shift
+V,Modified,59,Left Shift
+B,Modified,60,Left Shift
+N,Modified,61,Left Shift
+M,Modified,62,Left Shift
+<,Modified,63,Left Shift
+>,Modified,64,Left Shift
+?,Modified,65,Left Shift

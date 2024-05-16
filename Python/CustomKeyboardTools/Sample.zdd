@@ -1,0 +1,249 @@
+{
+    "ck_list": [
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY1"
+        },
+        {
+            "is_macro": true,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 56,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 57,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 58,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 59,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 60,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 61,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 62,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 63,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 64,
+                    "sp_key_list": [
+                    ]
+                },
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 65,
+                    "sp_key_list": [
+                    ]
+                }
+            ],
+            "name": "KEY2"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY3"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY4"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY5"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY6"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY7"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY8"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY9"
+        },
+        {
+            "is_macro": false,
+            "is_media": false,
+            "is_mouse": false,
+            "kv_list": [
+                {
+                    "delay": 0,
+                    "media_key_index": 0,
+                    "mouse_key_index": 0,
+                    "normal_key_index": 0,
+                    "sp_key_list": [
+                        0
+                    ]
+                }
+            ],
+            "name": "KEY10"
+        }
+    ],
+    "keynum": 10,
+    "name": "Test",
+    "pid": 8217,
+    "vid": 20785
+}
