@@ -1,0 +1,674 @@
+{
+    "keys": [
+        {
+            "key": "enter",
+            "type": "special",
+            "index": 54,
+            "modifiers": []
+        },
+        {
+            "key": "left_shift",
+            "type": "special",
+            "index": 55,
+            "modifiers": []
+        },
+        {
+            "key": "`",
+            "type": "normal",
+            "index": 14,
+            "modifiers": []
+        },
+        {
+            "key": "1",
+            "type": "normal",
+            "index": 15,
+            "modifiers": []
+        },
+        {
+            "key": "2",
+            "type": "normal",
+            "index": 16,
+            "modifiers": []
+        },
+        {
+            "key": "3",
+            "type": "normal",
+            "index": 17,
+            "modifiers": []
+        },
+        {
+            "key": "4",
+            "type": "normal",
+            "index": 18,
+            "modifiers": []
+        },
+        {
+            "key": "5",
+            "type": "normal",
+            "index": 19,
+            "modifiers": []
+        },
+        {
+            "key": "6",
+            "type": "normal",
+            "index": 20,
+            "modifiers": []
+        },
+        {
+            "key": "7",
+            "type": "normal",
+            "index": 21,
+            "modifiers": []
+        },
+        {
+            "key": "8",
+            "type": "normal",
+            "index": 22,
+            "modifiers": []
+        },
+        {
+            "key": "9",
+            "type": "normal",
+            "index": 23,
+            "modifiers": []
+        },
+        {
+            "key": "0",
+            "type": "normal",
+            "index": 24,
+            "modifiers": []
+        },
+        {
+            "key": "-",
+            "type": "normal",
+            "index": 25,
+            "modifiers": []
+        },
+        {
+            "key": "=",
+            "type": "normal",
+            "index": 26,
+            "modifiers": []
+        },
+        {
+            "key": "~",
+            "type": "modified",
+            "index": 14,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "!",
+            "type": "modified",
+            "index": 15,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "@",
+            "type": "modified",
+            "index": 16,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "#",
+            "type": "modified",
+            "index": 17,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "$",
+            "type": "modified",
+            "index": 18,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "%",
+            "type": "modified",
+            "index": 19,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "^",
+            "type": "modified",
+            "index": 20,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "&",
+            "type": "modified",
+            "index": 21,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "*",
+            "type": "modified",
+            "index": 22,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "(",
+            "type": "modified",
+            "index": 23,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": ")",
+            "type": "modified",
+            "index": 24,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "_",
+            "type": "modified",
+            "index": 25,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "+",
+            "type": "modified",
+            "index": 26,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "q",
+            "type": "normal",
+            "index": 29,
+            "modifiers": []
+        },
+        {
+            "key": "w",
+            "type": "normal",
+            "index": 30,
+            "modifiers": []
+        },
+        {
+            "key": "e",
+            "type": "normal",
+            "index": 31,
+            "modifiers": []
+        },
+        {
+            "key": "r",
+            "type": "normal",
+            "index": 32,
+            "modifiers": []
+        },
+        {
+            "key": "t",
+            "type": "normal",
+            "index": 33,
+            "modifiers": []
+        },
+        {
+            "key": "y",
+            "type": "normal",
+            "index": 34,
+            "modifiers": []
+        },
+        {
+            "key": "u",
+            "type": "normal",
+            "index": 35,
+            "modifiers": []
+        },
+        {
+            "key": "i",
+            "type": "normal",
+            "index": 36,
+            "modifiers": []
+        },
+        {
+            "key": "o",
+            "type": "normal",
+            "index": 37,
+            "modifiers": []
+        },
+        {
+            "key": "p",
+            "type": "normal",
+            "index": 38,
+            "modifiers": []
+        },
+        {
+            "key": "-",
+            "type": "normal",
+            "index": 39,
+            "modifiers": []
+        },
+        {
+            "key": "=",
+            "type": "normal",
+            "index": 40,
+            "modifiers": []
+        },
+        {
+            "key": "\"",
+            "type": "normal",
+            "index": 41,
+            "modifiers": []
+        },
+        {
+            "key": "Q",
+            "type": "modified",
+            "index": 29,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "W",
+            "type": "modified",
+            "index": 30,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "E",
+            "type": "modified",
+            "index": 31,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "R",
+            "type": "modified",
+            "index": 32,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "T",
+            "type": "modified",
+            "index": 33,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "Y",
+            "type": "modified",
+            "index": 34,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "U",
+            "type": "modified",
+            "index": 35,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "I",
+            "type": "modified",
+            "index": 36,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "O",
+            "type": "modified",
+            "index": 37,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "P",
+            "type": "modified",
+            "index": 38,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "{",
+            "type": "modified",
+            "index": 39,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "}",
+            "type": "modified",
+            "index": 40,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "|",
+            "type": "modified",
+            "index": 41,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "a",
+            "type": "normal",
+            "index": 43,
+            "modifiers": []
+        },
+        {
+            "key": "s",
+            "type": "normal",
+            "index": 44,
+            "modifiers": []
+        },
+        {
+            "key": "d",
+            "type": "normal",
+            "index": 45,
+            "modifiers": []
+        },
+        {
+            "key": "f",
+            "type": "normal",
+            "index": 46,
+            "modifiers": []
+        },
+        {
+            "key": "g",
+            "type": "normal",
+            "index": 47,
+            "modifiers": []
+        },
+        {
+            "key": "h",
+            "type": "normal",
+            "index": 48,
+            "modifiers": []
+        },
+        {
+            "key": "j",
+            "type": "normal",
+            "index": 49,
+            "modifiers": []
+        },
+        {
+            "key": "k",
+            "type": "normal",
+            "index": 50,
+            "modifiers": []
+        },
+        {
+            "key": "l",
+            "type": "normal",
+            "index": 51,
+            "modifiers": []
+        },
+        {
+            "key": ";",
+            "type": "normal",
+            "index": 52,
+            "modifiers": []
+        },
+        {
+            "key": "'",
+            "type": "normal",
+            "index": 53,
+            "modifiers": []
+        },
+        {
+            "key": "A",
+            "type": "modified",
+            "index": 43,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "S",
+            "type": "modified",
+            "index": 44,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "D",
+            "type": "modified",
+            "index": 45,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "F",
+            "type": "modified",
+            "index": 46,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "G",
+            "type": "modified",
+            "index": 47,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "H",
+            "type": "modified",
+            "index": 48,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "J",
+            "type": "modified",
+            "index": 49,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "K",
+            "type": "modified",
+            "index": 50,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "L",
+            "type": "modified",
+            "index": 51,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": ":",
+            "type": "modified",
+            "index": 52,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": ",",
+            "type": "modified",
+            "index": 53,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "z",
+            "type": "normal",
+            "index": 56,
+            "modifiers": []
+        },
+        {
+            "key": "x",
+            "type": "normal",
+            "index": 57,
+            "modifiers": []
+        },
+        {
+            "key": "c",
+            "type": "normal",
+            "index": 58,
+            "modifiers": []
+        },
+        {
+            "key": "v",
+            "type": "normal",
+            "index": 59,
+            "modifiers": []
+        },
+        {
+            "key": "b",
+            "type": "normal",
+            "index": 60,
+            "modifiers": []
+        },
+        {
+            "key": "n",
+            "type": "normal",
+            "index": 61,
+            "modifiers": []
+        },
+        {
+            "key": "m",
+            "type": "normal",
+            "index": 62,
+            "modifiers": []
+        },
+        {
+            "key": ",",
+            "type": "normal",
+            "index": 63,
+            "modifiers": []
+        },
+        {
+            "key": ".",
+            "type": "normal",
+            "index": 64,
+            "modifiers": []
+        },
+        {
+            "key": "/",
+            "type": "normal",
+            "index": 65,
+            "modifiers": []
+        },
+        {
+            "key": "Z",
+            "type": "modified",
+            "index": 56,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "X",
+            "type": "modified",
+            "index": 57,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "C",
+            "type": "modified",
+            "index": 58,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "V",
+            "type": "modified",
+            "index": 59,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "B",
+            "type": "modified",
+            "index": 60,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "N",
+            "type": "modified",
+            "index": 61,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "M",
+            "type": "modified",
+            "index": 62,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "<",
+            "type": "modified",
+            "index": 63,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": ">",
+            "type": "modified",
+            "index": 64,
+            "modifiers": [
+                "left_shift"
+            ]
+        },
+        {
+            "key": "?",
+            "type": "modified",
+            "index": 65,
+            "modifiers": [
+                "left_shift"
+            ]
+        }
+    ]
+}
