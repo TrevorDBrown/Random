@@ -1,0 +1,380 @@
+[
+    {
+        "card_rank": "A",
+        "card_suit": "♠️",
+        "card_name": "Ace of Spades",
+        "face_value": 1,
+        "color": "black"
+    },
+    {
+        "card_rank": "2",
+        "card_suit": "♠️",
+        "card_name": "Two of Spades",
+        "face_value": 2,
+        "color": "black"
+    },
+    {
+        "card_rank": "3",
+        "card_suit": "♠️",
+        "card_name": "Three of Spades",
+        "face_value": 3,
+        "color": "black"
+    },
+    {
+        "card_rank": "4",
+        "card_suit": "♠️",
+        "card_name": "Four of Spades",
+        "face_value": 4,
+        "color": "black"
+    },
+    {
+        "card_rank": "5",
+        "card_suit": "♠️",
+        "card_name": "Five of Spades",
+        "face_value": 5,
+        "color": "black"
+    },
+    {
+        "card_rank": "6",
+        "card_suit": "♠️",
+        "card_name": "Six of Spades",
+        "face_value": 6,
+        "color": "black"
+    },
+    {
+        "card_rank": "7",
+        "card_suit": "♠️",
+        "card_name": "Seven of Spades",
+        "face_value": 7,
+        "color": "black"
+    },
+    {
+        "card_rank": "8",
+        "card_suit": "♠️",
+        "card_name": "Eight of Spades",
+        "face_value": 8,
+        "color": "black"
+    },
+    {
+        "card_rank": "9",
+        "card_suit": "♠️",
+        "card_name": "Nine of Spades",
+        "face_value": 9,
+        "color": "black"
+    },
+    {
+        "card_rank": "10",
+        "card_suit": "♠️",
+        "card_name": "Ten of Spades",
+        "face_value": 10,
+        "color": "black"
+    },
+    {
+        "card_rank": "J",
+        "card_suit": "♠️",
+        "card_name": "Jack of Spades",
+        "face_value": 11,
+        "color": "black"
+    },
+    {
+        "card_rank": "Q",
+        "card_suit": "♠️",
+        "card_name": "Queen of Spades",
+        "face_value": 12,
+        "color": "black"
+    },
+    {
+        "card_rank": "K",
+        "card_suit": "♠️",
+        "card_name": "King of Spades",
+        "face_value": 13,
+        "color": "black"
+    },
+    {
+        "card_rank": "A",
+        "card_suit": "♥️",
+        "card_name": "Ace of Hearts",
+        "face_value": 1,
+        "color": "red"
+    },
+    {
+        "card_rank": "2",
+        "card_suit": "♥️",
+        "card_name": "Two of Hearts",
+        "face_value": 2,
+        "color": "red"
+    },
+    {
+        "card_rank": "3",
+        "card_suit": "♥️",
+        "card_name": "Three of Hearts",
+        "face_value": 3,
+        "color": "red"
+    },
+    {
+        "card_rank": "4",
+        "card_suit": "♥️",
+        "card_name": "Four of Hearts",
+        "face_value": 4,
+        "color": "red"
+    },
+    {
+        "card_rank": "5",
+        "card_suit": "♥️",
+        "card_name": "Five of Hearts",
+        "face_value": 5,
+        "color": "red"
+    },
+    {
+        "card_rank": "6",
+        "card_suit": "♥️",
+        "card_name": "Six of Hearts",
+        "face_value": 6,
+        "color": "red"
+    },
+    {
+        "card_rank": "7",
+        "card_suit": "♥️",
+        "card_name": "Seven of Hearts",
+        "face_value": 7,
+        "color": "red"
+    },
+    {
+        "card_rank": "8",
+        "card_suit": "♥️",
+        "card_name": "Eight of Hearts",
+        "face_value": 8,
+        "color": "red"
+    },
+    {
+        "card_rank": "9",
+        "card_suit": "♥️",
+        "card_name": "Nine of Hearts",
+        "face_value": 9,
+        "color": "red"
+    },
+    {
+        "card_rank": "10",
+        "card_suit": "♥️",
+        "card_name": "Ten of Hearts",
+        "face_value": 10,
+        "color": "red"
+    },
+    {
+        "card_rank": "J",
+        "card_suit": "♥️",
+        "card_name": "Jack of Hearts",
+        "face_value": 11,
+        "color": "red"
+    },
+    {
+        "card_rank": "Q",
+        "card_suit": "♥️",
+        "card_name": "Queen of Hearts",
+        "face_value": 12,
+        "color": "red"
+    },
+    {
+        "card_rank": "K",
+        "card_suit": "♥️",
+        "card_name": "King of Hearts",
+        "face_value": 13,
+        "color": "red"
+    },
+    {
+        "card_rank": "A",
+        "card_suit": "♣️",
+        "card_name": "Ace of Clubs",
+        "face_value": 1,
+        "color": "black"
+    },
+    {
+        "card_rank": "2",
+        "card_suit": "♣️",
+        "card_name": "Two of Clubs",
+        "face_value": 2,
+        "color": "black"
+    },
+    {
+        "card_rank": "3",
+        "card_suit": "♣️",
+        "card_name": "Three of Clubs",
+        "face_value": 3,
+        "color": "black"
+    },
+    {
+        "card_rank": "4",
+        "card_suit": "♣️",
+        "card_name": "Four of Clubs",
+        "face_value": 4,
+        "color": "black"
+    },
+    {
+        "card_rank": "5",
+        "card_suit": "♣️",
+        "card_name": "Five of Clubs",
+        "face_value": 5,
+        "color": "black"
+    },
+    {
+        "card_rank": "6",
+        "card_suit": "♣️",
+        "card_name": "Six of Clubs",
+        "face_value": 6,
+        "color": "black"
+    },
+    {
+        "card_rank": "7",
+        "card_suit": "♣️",
+        "card_name": "Seven of Clubs",
+        "face_value": 7,
+        "color": "black"
+    },
+    {
+        "card_rank": "8",
+        "card_suit": "♣️",
+        "card_name": "Eight of Clubs",
+        "face_value": 8,
+        "color": "black"
+    },
+    {
+        "card_rank": "9",
+        "card_suit": "♣️",
+        "card_name": "Nine of Clubs",
+        "face_value": 9,
+        "color": "black"
+    },
+    {
+        "card_rank": "10",
+        "card_suit": "♣️",
+        "card_name": "Ten of Clubs",
+        "face_value": 10,
+        "color": "black"
+    },
+    {
+        "card_rank": "J",
+        "card_suit": "♣️",
+        "card_name": "Jack of Clubs",
+        "face_value": 11,
+        "color": "black"
+    },
+    {
+        "card_rank": "Q",
+        "card_suit": "♣️",
+        "card_name": "Queen of Clubs",
+        "face_value": 12,
+        "color": "black"
+    },
+    {
+        "card_rank": "K",
+        "card_suit": "♣️",
+        "card_name": "King of Clubs",
+        "face_value": 13,
+        "color": "black"
+    },
+    {
+        "card_rank": "A",
+        "card_suit": "♦️",
+        "card_name": "Ace of Diamonds",
+        "face_value": 1,
+        "color": "red"
+    },
+    {
+        "card_rank": "2",
+        "card_suit": "♦️",
+        "card_name": "Two of Diamonds",
+        "face_value": 2,
+        "color": "red"
+    },
+    {
+        "card_rank": "3",
+        "card_suit": "♦️",
+        "card_name": "Three of Diamonds",
+        "face_value": 3,
+        "color": "red"
+    },
+    {
+        "card_rank": "4",
+        "card_suit": "♦️",
+        "card_name": "Four of Diamonds",
+        "face_value": 4,
+        "color": "red"
+    },
+    {
+        "card_rank": "5",
+        "card_suit": "♦️",
+        "card_name": "Five of Diamonds",
+        "face_value": 5,
+        "color": "red"
+    },
+    {
+        "card_rank": "6",
+        "card_suit": "♦️",
+        "card_name": "Six of Diamonds",
+        "face_value": 6,
+        "color": "red"
+    },
+    {
+        "card_rank": "7",
+        "card_suit": "♦️",
+        "card_name": "Seven of Diamonds",
+        "face_value": 7,
+        "color": "red"
+    },
+    {
+        "card_rank": "8",
+        "card_suit": "♦️",
+        "card_name": "Eight of Diamonds",
+        "face_value": 8,
+        "color": "red"
+    },
+    {
+        "card_rank": "9",
+        "card_suit": "♦️",
+        "card_name": "Nine of Diamonds",
+        "face_value": 9,
+        "color": "red"
+    },
+    {
+        "card_rank": "10",
+        "card_suit": "♦️",
+        "card_name": "Ten of Diamonds",
+        "face_value": 10,
+        "color": "red"
+    },
+    {
+        "card_rank": "J",
+        "card_suit": "♦️",
+        "card_name": "Jack of Diamonds",
+        "face_value": 11,
+        "color": "red"
+    },
+    {
+        "card_rank": "Q",
+        "card_suit": "♦️",
+        "card_name": "Queen of Diamonds",
+        "face_value": 12,
+        "color": "red"
+    },
+    {
+        "card_rank": "K",
+        "card_suit": "♦️",
+        "card_name": "King of Diamonds",
+        "face_value": 13,
+        "color": "red"
+    },
+    {
+        "card_rank": "Joker",
+        "card_suit": "X",
+        "card_name": "Joker",
+        "face_value": 0,
+        "color": "none"
+    },
+    {
+        "card_rank": "Joker",
+        "card_suit": "Y",
+        "card_name": "Joker",
+        "face_value": 0,
+        "color": "none"
+    }
+]
